@@ -89,11 +89,6 @@ nav a {
     margin: 20px 0;
 }
 
-
-.grid:hover{
-    transform: scale(1.2);
-}
-
 .grid-item {
     background-color: #ffffff;
     border: 1px solid #dee2e6;
